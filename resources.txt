@@ -1,1 +1,4 @@
 CID     # comment
+bafybeih5o5jmgqgkqkpcph3suyg36rltgu6efgxdny4b7bfismho5h2wqq # Piksel editor
+QmUB84TwoR7FFK6ZoGKYNvgRHV5EinLrE9we5TM6XR9ikW # ipfs v0.10.0 packages
+QmdLA1UYfoUJKaHyquVn87MNTyCA1gFvQmk62GLYdPrkKn # The Hitchhiker’s Guide to Online Anonymity - Official IPFS
